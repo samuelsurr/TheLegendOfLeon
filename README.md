@@ -15,3 +15,10 @@ The Legend of Leon is an exciting 2D Unity game that follows the journey of a re
 ----
 
 Get ready to embark on an epic adventure filled with thrilling battles, challenging puzzles, and a captivating storyline. Will you be able to help Leon overcome the evil wizard and save the kingdom? Play The Legend of Leon now and find out!
+
+----
+
+
+Thank you [Jiacheng Kaung](https://github.com/1834423612) for making this readme file
+
+# Click this [link](https://chillgbird.itch.io/legend-of-leon) to play the game on browser 
